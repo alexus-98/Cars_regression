@@ -1,6 +1,6 @@
 # Cars_regression
 
-#### This is a part of final project for the [Machine Learning](https://usosweb.wne.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=2400-DS2ML2) 2 course at University of Warsaw that focuses on a regression problem. The whole project was prepared jointly with my colleague - Marian Nehrebecki. I was responsible for the regression part and Marian for the classification problem, that was prepared in R Studio.
+#### This is a part of final project for the [Machine Learning 2](https://usosweb.wne.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=2400-DS2ML2) course at University of Warsaw. The whole project was prepared jointly with my colleague - Marian Nehrebecki. I was responsible for the regression problem and Marian for the classification problem, that was prepared in R Studio.
 
 In this part of the project we want to show different machine learning approaches in a regression problem. The main goal is to build a model which will predict a price of a car, based on the given set of features. The dataset was downloaded from Kaggle and contains information about more than 38 thousand cars that was scraped from the Belarusian listing website in December 2019.
 
